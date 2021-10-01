@@ -16,3 +16,5 @@
 3. Where and when to join?
 - You can stay updated by the recent activity of spectrum by following them on Linkedin, Facebook,Github and Instagram.
 - For more details you can contact on the number or mail on the email address mention on the website.
+
+<p align ="left"><img src = "https://raw.githubusercontent.com/debidattasuryaprakash/spectrum-website/master/readme%20images/carbon.png" width="700px"></p>
