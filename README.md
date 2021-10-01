@@ -2,6 +2,9 @@
 
 <p align ="center"><img src = "https://user-images.githubusercontent.com/61475220/92301477-d87b4b80-ef81-11ea-84e8-17a577d64522.png" width="700px"></p>
 
+[![GitHub issues](https://img.shields.io/github/issues/Spectrum-CETB/spectrum-website?style=plastic)](https://github.com/Spectrum-CETB/spectrum-website/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Spectrum-CETB/spectrum-website)](https://github.com/Spectrum-CETB/spectrum-website/network)
+
 - Intially the meaning of spectrum is to show characteristic colour of visible light after passing through prism.🚀
 - It is the technical society of CET( College of Engineering and Technology) Bhubaneswar.
 - Spectrum has three wings-
